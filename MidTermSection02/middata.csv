@@ -1,0 +1,6 @@
+userID,date,filetype,filename
+101,07-10-2017,'image','bd.img'
+102,19-09-2018,'text','cassandra.txt'
+103,'30-05-2019','video','mongodb.mp4'
+104,'09-11-2013,'image','cloud.img'
+105,'14-05-2009','text','impala.txt'
